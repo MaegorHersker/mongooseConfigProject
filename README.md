@@ -1,3 +1,0 @@
-# mongooseConfigProject
-
-#textoalteradocom sucesso
